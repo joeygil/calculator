@@ -93,7 +93,7 @@ function App() {
                 onClick={inputNum}
                 value={"%"}
               >
-                -/+
+                %
               </button>
               <button className="btn-number" onClick={inputNum} value={7}>
                 7
