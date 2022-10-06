@@ -18,7 +18,7 @@ span {
 }
 
 .App {
-  margin-top: 10%;
+  margin: 50px;
   text-align: center;
   display: flex;
   justify-content: center;
@@ -30,6 +30,7 @@ span {
 }
 
 .main-container {
+  margin-bottom: 40px;
   border-radius: 25px;
   background-color: #333333;
   display: flex;
