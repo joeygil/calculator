@@ -7,6 +7,7 @@ span {
   text-align: left;
   font-family: "Gemunu Libre", sans-serif;
   font-size: 1.1rem;
+  margin: 4px;
 }
 
 @font-face {
@@ -52,12 +53,11 @@ span {
   border-radius: 10px;
   margin: 6px auto;
   padding: 10px 3px;
-  height: 90px;
-  width: 365px;
-
+  height: 80px;
+  width: 335px;
   background-color: RGB(125, 140, 115);
   font-family: "digital-7_monomono";
-  font-size: 95px;
+  font-size: 90px;
   text-align: right;
 
   box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
@@ -114,7 +114,7 @@ span {
   margin: 3px;
   width: 252px;
   height: 80px;
-  font-size: 40px;
+  font-size: 30px;
   box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
     rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
@@ -132,7 +132,7 @@ span {
   margin: 3px;
   width: 80px;
   height: 80px;
-  font-size: 40px;
+  font-size: 30px;
   box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
     rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
