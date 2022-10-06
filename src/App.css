@@ -76,9 +76,9 @@ span {
   color: hsl(50, 50%, 97%);
   border-radius: 5px;
   margin: 3px;
-  width: 85px;
-  height: 85px;
-  font-size: 40px;
+  width: 80px;
+  height: 80px;
+  font-size: 30px;
   box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
     rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
@@ -89,9 +89,9 @@ span {
   color: white;
   border-radius: 5px;
   margin: 3px;
-  width: 85px;
-  height: 85px;
-  font-size: 40px;
+  width: 80px;
+  height: 80px;
+  font-size: 30px;
   box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
     rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
@@ -112,8 +112,8 @@ span {
   color: white;
   border-radius: 5px;
   margin: 3px;
-  width: 267px;
-  height: 75px;
+  width: 252px;
+  height: 80px;
   font-size: 40px;
   box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
     rgba(0, 0, 0, 0.22) 0px 15px 12px;
@@ -130,8 +130,8 @@ span {
   color: white;
   border-radius: 5px;
   margin: 3px;
-  width: 85px;
-  height: 75px;
+  width: 80px;
+  height: 80px;
   font-size: 40px;
   box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
     rgba(0, 0, 0, 0.22) 0px 15px 12px;

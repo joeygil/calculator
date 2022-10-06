@@ -36,7 +36,7 @@ function App() {
             <div className="screen">{calc}</div>
             <div className="numbers-container">
               <span>CASIO FX-83GX</span>
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
               <span>UN-SCIENTIFIC CALCULATOR</span>
               <br />
               <button
